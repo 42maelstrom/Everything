@@ -1,0 +1,8 @@
+apple: 50: mango, kiwi,
+kiwi: 40: apple, strawberry,
+pear: 40: orange,
+strawberry: 90: kiwi, mango, orange,
+orange: 60: strawberry, pear,
+mango: 50: apple, strawberry,
+taco: 40: beans,
+beans: 50: taco,

@@ -1,0 +1,191 @@
+Jan4
+Name: IN-CAR
+Description: Find the words in the crossword puzzle. There are so many. Whenever there is a car symbol, it means there is the letters C-A-R there. The remaining letters will spell out three more words which have a theme I forget.
+Helper classes: none
+
+Jan5
+Name: MATCH PLAY
+Description: The grid contains matches of different sizes, any of which may be completely unburnt, partially burnt, or completely burnt. Matches burn from the head (rounded end) to the tail, without skipping segments. The numbers outside the grid indicate the number of burny segments in the corresponding row or column. Can you shade in the burnt segments to "match" the numbers?
+Helper classes: Square Direction Axis 
+
+Jan6
+Name: none
+Description: Reconstruct the end of a quip and the name of the person to whom the quip is attributed by placing the three-letter chunks in the correct order. To start you off, we've placed the first chunk and cross it off the list. The quip begins: "the trouble with stealing quotes off the internet is that you..."
+Helper classes: none
+
+Jan8
+Name: none
+Description: Identify the images, which represent ten 4-letter words. Then starting with the hair-grooming tool, form a ten-step word ladder in which two adjacent letters change at each step while the other two letters remain the same.
+Helper classes: none
+
+Jan9
+Name: BY GUM!
+Description: A gumball machine contains 12 yellow, 11 green, 7 orange, and 13 red gumballs. How many more red gumballs must be loaded into the machine so that 2/3 of the gumballs in it are red?
+Helper classes: Fraction 
+
+Jan12
+Name: none
+Description: In this maze, start on the star and end on the flag by exact count as you follow these rules: 
+1. Move 3 cells, then 2 cells, then 1 cell:
+repeat in order as needed.
+2. Move horizontally, vertically, or diagonally
+but always in a straight line.. Do not move forward in the same direction nor go in the reverse direction of the move you just made.
+4. Do not land on or even cross over any of the black cells.. Do not land on the same cell more than once.
+Can you find the shortest path?
+Helper classes: Point 
+
+Jan14
+Name: TAKE TWO
+Description: Choose two consonants and repeat them as many times as needed to complete this crisscross puzzle. All vowels, including Y's, have already been placed. All words are common, uncapitalized, unhyphenated English words.
+Helper classes: none
+
+Jan16
+Name: none
+Description: Fill in the blanks with spelled-out numbers to make the statement true.
+Helper classes: none
+
+Jan17
+Name: ENCRYPTED STATE
+Description: The word WHIZGIG can be encoded into the name of a U.S. state by replacing each letter with a different letter, but where repeated letters are assigned the same replacement letter, as in a cryptogram. What is this state?
+Helper classes: none
+
+Jan18
+Name: none
+Description: In the puzzle below, we've strung together a series of three or four words in a specific category, removed one letter from each word, and then closed up the spaces. The letters we removed, in order, spell on other item in that category. For example, ERCURYSTURNEATHVENU is missing the M from MERCURY, the A from SATURN, the R from EARTH, and the S from VENUS, which spells MARS, which, like the others, is a planet. Can you figure out the original words and the extra item spelled by the missing letters?
+Helper classes: none
+
+Jan19
+Name: none
+Description: The 6 x 6 grid was tiled using only the two trominos shown, with reflection and rotations of these tiles permitted. The locations of the tiles' circles are indicated in the grid. Can you add the thickened lines to show the tiling?
+Helper classes: Point Tile 
+
+Jan21
+Name: TEN TO FIVE
+Description: Starting on a letter in the longest row, spell out a ten-letter word going from letter to adjacent letter?horizontally, vertically, or diagonally?as you use every letter in the grid one. Then rearrange that ten-letter world into two five-letter words that begin and end with the letters shown in the rows at the bottom.
+Helper classes: none
+
+Jan23
+Name: MADE IN THE SHADE
+Description: Fill in the blanks so that each column spells out a common five-letter word and the two shaded rows spell out a two-word phrase that identifies some people who work at a school.
+Helper classes: none
+
+Jan24
+Name: CUT AND PASTE
+Description: Cut one letter from each word and "paste" the remaining letters together to spell out a new word. For example, in SPY + THORN, cut the S and the R to get PYTHON.
+Helper classes: none
+
+Jan25
+Name: WIN THE LOTTERY
+Description: A lottery uses only three-digit numbers. the number that will be awarded the grand prize was selected before the close of sales, and I was told the following three things about the number. I'm going to rush out to get some tikets, which cost $5 each. If I want to guarantee that I will share in the prize money, what is the least amount that I will need to spend?
+Helper classes: none
+
+Jan26
+Name: none
+Description: In each identical setup, insert two different letters into the blanks in the first word and two other different letters int othe blanks of the second word to form a phrase defined by a clue in the last column.
+Helper classes: none
+
+Jan27
+Name: JOHNSON & JOHNSON & JOHNSON
+Description: Many famous people have the last name Johnson. In each row below, we've interwoven (without scrambling) the first names of three famous Johnsons so that each name still reads from left to right. Can you identify all nine Johnsons, three per row?
+Helper classes: none
+
+Jan30
+Name: FOUR OF A KIND
+Description: Complete the short paragraph below by filling in the blanks with four 4-letter words that each differ by one letter. The changed letter will be in the same position in each word, as in CHEF, CHEZ, CHER, CHEW
+Helper classes: none
+
+Feb5
+Name: none
+Description: In each individual row, choose one letter from each box in left-to-right order to spell a five-letter occupation. Similarly, in each column, choose one letter from each box in top-to-bottom order to spell a different five-letter occupation. Cross out all the letters you have chosen. After you have crossed out all 10 occupations, the 25 remaining letters, when read left to right starting at the top, will spell out a proverb related to the theme.
+Helper classes: none
+
+Feb6
+Name: MAGIC SQUARES
+Description: USing the letters in the word MAGIC, place one letter in each cell so that no two identical letters are in the same row horizontally, vertically, or diagonally?not even on a short diagonal. We've started you off with four letters.
+Helper classes: Space 
+
+Feb7
+Name: none
+Description: An investment firm wants the phone number 438-7424 because of the seven-letter phrase that the number spells. What's the phrase?
+Helper classes: PhoneNumberWords 
+
+Feb8
+Name: none
+Description: Insert the given letters, one per cell, to complete a word square containing ten different words;: five reading across and five erading down. We've placed all the vowels to get you started.
+Helper classes: none
+
+Feb10
+Name: none
+Description: Put an X or O in each empty cell of this grid so that four consecutive X's or O's do not appear horizontally, vertically, or diagonally. The answer is unique.
+Helper classes: Point 
+
+Feb12
+Name: none
+Description: The seven 7-letter words given below can be made by using the individual letters in CHARLES DARWIN, whose birthday is today. Insert those words into the grid, reading across, in such a way that a seven-letter job will be found when you ascend one of the columns from bottom to top. Ten letters have been placed to get you started.
+Helper classes: none
+
+Feb13
+Name: none
+Description: Each of the six letters stands for a different letter from 1 to 9. Using the four clues, can you deduce the number represented by each letter?
+Helper classes: none
+
+Feb14
+Name: none
+Description: Use the clues on each line to create an anagram of VALENTINE'S DAY. The Firstletter of each word is given and should not be reused.
+Helper classes: none
+
+Feb15
+Name: PRESIDENT AND ACCOUNTED FOR
+Description: Change one letter in each word below to uncover a five-letter last name of a U.S. president. For example, change the R in GRAYEST to H to get HAYES.
+Helper classes: none
+
+Feb16
+Name: none
+Description: Place stars in six cells of this grid so that every row, every column, and every outlined region contains exactly one star. Stars must never be located in adjacent cells, not even diagonally.
+Helper classes: Region Space 
+
+Feb19
+Name: SNOW REMOVAL
+Description: The letters S-N-O-W have been removed from all of the words, names, and phrases below, with any resulting spaces closed up. The letters S-N-O-W always appear in left-to-right order, although not neessarily consecutively. What are these words and phrases?
+Helper classes: none
+
+Mar5
+Name: PLAYTIME
+Description: Start at the top and choose one letter from each successive row to create five 5-letter things that people play. You may jump to any column as you go down. there is never a need to rearrange the letters, and every letter will be used exactly once. What are the five words?
+Helper classes: none
+
+Mar8
+Name: none
+Description: The end of aquip by author Isaac Asimov appears in the grid. To spell it out, start on the circled "G" and go from letter to adjacent letter as you move up, down, or across, but never diagonally. Every letter in the grid will be used exactly once. The enumeration (the number of letters in the words) is (5 9 2 5 2 2 3 2). The quip begins: "Those people who think they know everything are a ... "
+Helper classes: Point 
+
+Mar11
+Name: none
+Description: Subdivide this region along the grid lines into non-overlapping squares and rectangles. Each rectangle or square must contain exactly one number that indicates how many small cells make up its area
+Helper classes: none
+
+Mar12
+Name: none
+Description: Use the same set of four letters (in a different order each time) to fill in the blanks to form six uncapitalized English words.
+Helper classes: none
+
+May4
+Name: none
+Description: none
+Helper classes: none
+
+May10
+Name: TAKE TWO
+Description: Choose two consonants and repeat them as many times as needed to complete this crisscross puzzle. All vowels, including Y's, have already been placed. All words are common, uncapitalized, unhyphenated English words.
+Helper classes: none
+
+May12
+Name: none
+Description: none
+Helper classes: none
+
+May25
+Name: none
+Description: none
+Helper classes: none
+

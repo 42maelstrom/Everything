@@ -1,0 +1,4 @@
+
+public enum TShape {
+	SQUARE, CIRCLE, TRIANGLE, CLOVER, STAR_4, STAR_8;
+}
